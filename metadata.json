@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Hangman",
+  "description": "A simple text-based Hangman game where the player guesses letters of a word. It uses Gemini to provide hints for the word.",
+  "requestFramePermissions": []
+}
